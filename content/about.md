@@ -16,3 +16,6 @@ There are:
 - Léo Sei
 - Adrian Gonzy 
 - Joël Viellepeau
+
+And sometimes other contributors:
+- Etienne Chamayou
